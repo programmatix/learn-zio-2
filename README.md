@@ -1,0 +1,1 @@
+Learning project for Scala ZIO 2.
